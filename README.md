@@ -9,5 +9,4 @@
 - [书签桥](https://github.com/lglglglglg/chrome-bookmark-bridge) — 浏览器书签工具
 
 
-[![在爱发电支持韩十九和月芽儿](./afdian-qr.png)](https://ifdian.net/a/han19jiu)
 持续生产shi山ING~
