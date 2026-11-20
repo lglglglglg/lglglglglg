@@ -8,4 +8,6 @@
 - [Notchly](https://github.com/lglglglglg/Notchly) — 为带刘海 MacBook 打造的音乐优先型灵动岛伙伴
 - [书签桥](https://github.com/lglglglglg/chrome-bookmark-bridge) — 浏览器书签工具
 
+
+[![在爱发电支持韩十九和月芽儿](./afdian-qr.png)](https://ifdian.net/a/han19jiu)
 持续生产shi山ING~
